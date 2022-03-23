@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/g_serial.o := arm-linux-ld -EL   -r -o drivers/usb/gadget/g_serial.o drivers/usb/gadget/usbstring.o drivers/usb/gadget/config.o drivers/usb/gadget/epautoconf.o drivers/usb/gadget/serial.o

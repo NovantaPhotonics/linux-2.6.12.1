@@ -1,0 +1,1 @@
+#define CONFIG_USB_AT91_MODULE 1

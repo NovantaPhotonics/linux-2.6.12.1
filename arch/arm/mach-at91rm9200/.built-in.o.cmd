@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-at91rm9200/built-in.o :=  arm-linux-ld -EL   -r -o arch/arm/mach-at91rm9200/built-in.o arch/arm/mach-at91rm9200/irq.o arch/arm/mach-at91rm9200/time.o arch/arm/mach-at91rm9200/gpio.o arch/arm/mach-at91rm9200/common.o arch/arm/mach-at91rm9200/devices.o arch/arm/mach-at91rm9200/board-dk.o

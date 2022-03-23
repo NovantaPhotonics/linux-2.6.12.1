@@ -1,0 +1,1 @@
+#define CONFIG_USB_G_FLYER_MODULE 1

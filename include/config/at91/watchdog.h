@@ -1,0 +1,1 @@
+#undef CONFIG_AT91_WATCHDOG
